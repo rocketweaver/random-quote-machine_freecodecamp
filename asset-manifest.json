@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/rocketweaver.github.io/master/static/css/main.0cd809b0.css",
+    "main.js": "/rocketweaver.github.io/master/static/js/main.4024ad27.js",
+    "static/media/background.png": "/rocketweaver.github.io/master/static/media/background.3bc28c1995ee526a7c74.png",
+    "index.html": "/rocketweaver.github.io/master/index.html",
+    "main.0cd809b0.css.map": "/rocketweaver.github.io/master/static/css/main.0cd809b0.css.map",
+    "main.4024ad27.js.map": "/rocketweaver.github.io/master/static/js/main.4024ad27.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0cd809b0.css",
+    "static/js/main.4024ad27.js"
+  ]
+}
